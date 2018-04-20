@@ -1,0 +1,35 @@
+body{
+	background: #f7faf9;
+}
+section>div {
+    height: auto;
+}
+
+.container {
+    margin-top: 80px;
+}
+
+.content-left{
+    height:auto;
+    overflow: hidden;
+}
+
+.content-left .item {
+    border: solid 1px #ddd;
+    height: auto;
+    overflow: hidden;
+    padding: 10px 0px;
+    margin-bottom: 20px;
+    background: #fff;
+    border-radius: 2px;
+}
+footer{
+    height:auto;
+    background: #fff;
+    padding:20px;
+    overflow: hidden;
+}
+
+section .col-md-8{
+    background: #fff;
+}
